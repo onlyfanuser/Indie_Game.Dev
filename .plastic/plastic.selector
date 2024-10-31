@@ -1,0 +1,4 @@
+repository "Indie_Game.Dev@AhongNB1119@cloud"
+  path "/"
+    br "/main"
+    co "/main"
